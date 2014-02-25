@@ -45,7 +45,6 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
-        alert("我要弹个框");   
-        alert("其实是打酱油的");
+        alert("我要弹个你丫的");
     }
 };
