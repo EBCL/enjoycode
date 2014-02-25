@@ -46,5 +46,6 @@ var app = {
 
         console.log('Received Event: ' + id);
         alert("我要弹个框");   
+        alert("其实是打酱油的");
     }
 };
