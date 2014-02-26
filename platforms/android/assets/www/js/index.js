@@ -27,6 +27,12 @@ var app = {
     // 'load', 'deviceready', 'offline', and 'online'.
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
+        document.addEventListener('backbutton',this.onBackButton,false);
+        document.addEventListener('batterycritical',this.watchBattery,false);
+        document.addEventListener('batterylow',this.watchBattery,false);
+        document.addEventListener('batterystatus',this.watchBattery,false);
+       // window.location.href = "secondPg.html";
+       $.mobile.changePage("secondPg.html",'pop',false,true);
     },
     // deviceready Event Handler
     //
@@ -34,6 +40,11 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+    },
+
+    //控制返回按钮
+    onBackButton:function(){
+       // alert("你丫还想退出？");
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
@@ -45,6 +56,11 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
-        alert("我要弹个你丫的");
+       // alert("我要弹个你丫的");
+    },
+
+    //查看设备电量
+    watchBattery:function(info){
+        console.log("info.level"+info.level+";info.isplugged:"+info.isplugged)
     }
 };

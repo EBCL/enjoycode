@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"foc",
+				"focusout	.focusout()"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"out",
+				"outboundInquiries"
+			],
+			[
+				"one",
+				"oneOrder"
+			],
+			[
+				"console",
+				"console	console.exception()"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tog",
+				"toggle	.toggle()"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ma",
+				"marginTop"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"sli",
+				"slideDown	.slideDown()"
+			],
+			[
+				"su",
+				"submit	submit"
+			],
+			[
+				"t",
+				"type	$.type()"
+			],
+			[
+				"session_d",
+				"session_destroy"
+			],
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"margin",
+				"marginTop"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"fa",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"SELECT",
+				"msql_select_db"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"scro",
+				"perfectScrollbar"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ha",
+				"hasClass	.hasClass"
+			],
+			[
+				"fl",
+				"fl	float: ${1:left};"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"carn",
+				"carNumLi"
+			],
+			[
+				"area",
+				"areaName"
+			],
+			[
+				"i",
+				"iframe	Tag"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"hist",
+				"historyTimeBox"
+			],
+			[
+				"carM",
+				"carMapPage"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 2503,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "secondPg.html",
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Windows",
+				"name": "secondPg.html"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2102,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"x",
+				"Set Syntax: XML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: after"
+			],
+			[
+				"github",
+				"Github: Blame"
+			],
+			[
+				"githo",
+				"Github: Open File"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/GITSPACE/enjoycode/platforms/android/assets/www/phonegap.js",
+		"/D/Program Files/mysql5.1.62/my.ini",
+		"/F/GITSPACE/enjoycode/platforms/android/assets/www/index1.html",
+		"/C/wamp/www/dczzc.css",
+		"/D/Program Files/apache-tomcat-7.0.11/webapps/WEB-INF/web.xml",
+		"/C/wamp/www/test.html",
+		"/C/wamp/www/print.html",
+		"/C/wamp/www/index.php",
+		"/C/Users/Administrator/Desktop/print/background.js",
+		"/C/Users/Administrator/Desktop/print/manifest.json",
+		"/C/wamp/www/data.json",
+		"/C/wamp/www/xx/BoxRecycling/css/index.css",
+		"/H/百度云同步盘/Software/Java/struts-2.3.7-all/struts-2.3.7/apps/struts2-blank/WEB-INF/classes/struts.xml",
+		"/H/百度云同步盘/Software/Java/struts-2.3.7-all/struts-2.3.7/apps/struts2-blank/WEB-INF/classes/example.xml",
+		"/H/百度云同步盘/Software/Java/struts-2.3.7-all/struts-2.3.7/src/core/pom.xml",
+		"/E/workspace/VMS/.classpath",
+		"/H/百度云同步盘/Software/Java/struts-2.3.7-all/struts-2.3.7/apps/struts2-blank/WEB-INF/web.xml",
+		"/H/workspace/test/WebContent/WEB-INF/classes/struts.xml",
+		"/H/workspace/test/WebContent/WEB-INF/web.xml",
+		"/H/百度云同步盘/Software/Java/struts-2.3.7-all/struts-2.3.7/apps/struts2-blank/WEB-INF/src/java/struts.xml",
+		"/C/Users/Administrator/Desktop/bennyLab shooter_files/bennyrice.min.js",
+		"/C/Users/Administrator/Desktop/bennyLab shooter.htm",
+		"/D/Program Files/MyEclipse/MyEclipse 9/myeclipse.ini",
+		"/C/Users/Administrator/Desktop/dd.html",
+		"/C/wamp/www/xxx.html",
+		"/E/workspace/VMS/WebRoot/css/index.css",
+		"/C/Users/Administrator/Downloads/bootstrap(1)/css/bootstrap.css",
+		"/C/Users/Administrator/Downloads/bootstrap/js/bootstrap.js",
+		"/F/FLASH workspace/V08修改入库层级/ElevatedLibrary.as",
+		"/H/百度云同步盘/Project/西安烟草精益物流/flash project/V-0.81/Main.as",
+		"/F/FLASH workspace/V08/Main.as",
+		"/F/FLASH workspace/V08修改入库层级/com/greensock/data/TweenLiteVars.as",
+		"/F/FLASH workspace/V08/pieceBox.as",
+		"/C/wamp/www/test/index.js",
+		"/C/Users/Administrator/Desktop/test/index.html",
+		"/C/Users/Administrator/Desktop/test/index.js",
+		"/C/Users/Administrator/Desktop/test/secondPage.html",
+		"/C/wamp/www/xx/VMS/js/index2.js",
+		"/C/wamp/www/test/index.html",
+		"/C/Users/Administrator/Desktop/test/index.html.txt",
+		"/C/Users/Administrator/Google 云端硬盘/淘宝客项目/Untitled document.gdoc",
+		"/C/wamp/www/xx/BoxRecycling/oneOrder.html",
+		"/C/Users/Administrator/Desktop/database.properties",
+		"/C/Users/Administrator/Desktop/index.html",
+		"/C/wamp/www/xx/BoxRecycling/login.html",
+		"/C/wamp/www/xx/VMS/css/index.css",
+		"/C/wamp/www/xx/VMS/orderList.html",
+		"/C/wamp/www/xx/BoxRecycling/tray.html",
+		"/C/wamp/www/xx/BoxRecycling/trayArea.html",
+		"/C/wamp/www/xx/BoxRecycling/outboundInquiries.html",
+		"/C/wamp/www/xx/BoxRecycling/basicData.html",
+		"/C/wamp/www/xx/BoxRecycling/boxRecycling.html",
+		"/C/wamp/www/xx/BoxRecycling/inquiry.html",
+		"/C/wamp/www/xx/BoxRecycling/js/index2.js",
+		"/C/wamp/www/xx/BoxRecycling/inboundInquiries.html",
+		"/C/wamp/www/xx/BoxRecycling/css/login.css",
+		"/C/wamp/www/xx/VMS/index.html",
+		"/C/wamp/www/xx/BoxRecycling/index.html",
+		"/C/wamp/www/xx/Platform/js/desktop.js",
+		"/C/wamp/www/xx/css/index.css",
+		"/C/wamp/www/xx/index.html",
+		"/C/wamp/www/xx/data/carTree.json",
+		"/C/wamp/www/xx/BoxRecycling/handheld.html",
+		"/E/workspace/lcplatform/flex_src/lcplatform.css",
+		"/E/workspace/lcplatform/flex_src/MainPage.mxml",
+		"/C/wamp/www/xx/BoxRecycling/orderList.html",
+		"/F/FLASH workspace/V-0.81/Main.as",
+		"/E/workspace/lcplatform/flex_src/lcplatform.mxml",
+		"/C/Users/Administrator/Desktop/ss.cpp",
+		"/C/goagent-goagent-f1f5ade/local/proxy.ini",
+		"/C/wamp/www/xx/Platform/desktop.html",
+		"/E/workspace/lcplatform/flex_src/com/hupo/page/MainPage.mxml",
+		"/F/FLASH workspace/V-0.81/MainStage.as",
+		"/C/Users/Administrator/Documents/My Knowledge/Plugins/Hello.World/plugin.ini",
+		"/C/Users/Administrator/Documents/My Knowledge/Plugins/Hello.World/HelloWorld.js",
+		"/C/Users/Administrator/Downloads/HelloWorld.wizplugin",
+		"/E/workspace/lcplatform/flex_src/main.mxml",
+		"/C/Users/Administrator/Downloads/地图分块加载代码/.actionScriptProperties",
+		"/C/Users/Administrator/Desktop/xxdxx.json",
+		"/C/wamp/www/xx/BoxRecycling/Car.html",
+		"/C/wamp/www/xx/js/desktop.js",
+		"/C/wamp/www/xx/BoxRecycling/forms.html",
+		"/C/wamp/www/xx/boxRecycling.html",
+		"/C/wamp/www/xx/js/index2.js",
+		"/C/wamp/www/xx/orderList.html",
+		"/C/wamp/www/xx/outboundInquiries.html",
+		"/C/wamp/www/xx/inboundInquiries.html",
+		"/C/wamp/www/xx/inquiry.html",
+		"/C/wamp/www/xx/forms.html",
+		"/C/wamp/www/xx/desktop.html",
+		"/C/wamp/www/xx/boxRecycling/boxRecycling.html",
+		"/C/wamp/www/xx/changePW.html",
+		"/C/wamp/www/xx/changPhoneNum.html",
+		"/C/wamp/www/xx/carMap.html",
+		"/C/wamp/www/xx/login.html",
+		"/C/wamp/www/xx/forgetPW.html",
+		"/C/wamp/www/xx/oneOrder.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/LiveStyle/LiveStyle.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/jQuery/$ajaxSend.sublime-snippet",
+		"/C/wamp/www/css/index.css",
+		"/C/wamp/www/login.php",
+		"/C/wamp/www/xx/data/OrderList.json",
+		"/F/迅雷下载/jquery.combobox/jquery.bgiframe.pack.js",
+		"/C/wamp/www/pda1.php",
+		"/C/wamp/www/js/test.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Administrator/Desktop/x.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Phpcs/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Phpcs/phpcs.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/mySnippet/hello.python",
+		"/C/wamp/www/platform.php",
+		"/C/wamp/www/test.php",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/F/迅雷下载/jquery.combobox/demo.htm",
+		"/C/Users/Administrator/Downloads/jquery-simple-combobox-master/jquery-simple-combobox-master/js/jquery.easing.min.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/CSS/Comments.tmPreferences",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Administrator/Downloads/goagent-goagent-v3.1.1-12-g5fd6c10/goagent-goagent-5fd6c10/local/proxy.ini",
+		"/H/百度云同步盘/我的练习/python/hello.py",
+		"/C/Users/Administrator/Desktop/a.py",
+		"/C/wamp/www/js/index.js",
+		"/C/wamp/www/xx/js/picker.date.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 2/Packages/Browse/Browse.sublime-settings",
+		"/C/Users/Administrator/Downloads/jquery-1.10.2.min.map",
+		"/F/baiduyundownload/网友欢欢分享5套用bootstrap框架写的后台管理模板打包下载/matrix-admin01/index.html"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"password",
+			"\"",
+			"spring",
+			"pda",
+			"{",
+			"</th>",
+			"fade",
+			"backdrop",
+			"#inquiry",
+			"#forms",
+			"objectarray",
+			"objectArray",
+			"putstorageframe",
+			"8",
+			"putstor",
+			"婴儿",
+			"addPieceBoxN",
+			"addPieceBox",
+			"forms",
+			"#forms",
+			"inquiry.loadForms",
+			"inquiry",
+			"inquiry.loadForms",
+			"inquiry.switchPage",
+			"switchpage",
+			"addPutStorage",
+			"waitMianStage",
+			"swf",
+			"alert",
+			"alertshow",
+			"alert",
+			"mySWF",
+			"waitMianStage",
+			"myFlash_completeHandler",
+			"swf",
+			"addPutStorage",
+			"PutStorageNum",
+			"stockBeltMsg",
+			"createFunction",
+			"swf",
+			"add",
+			"add st",
+			"addPutStorage",
+			"put",
+			"putStorage",
+			"putStorageN",
+			"var",
+			"pageEvent",
+			"pageControl.animation",
+			"css",
+			"orderlist",
+			"commodityInfoTit",
+			"th",
+			"td",
+			"searchDropDown",
+			"{\n",
+			"snippet",
+			"progress",
+			"pad",
+			"carMapPage.showOrderList",
+			"showOrderList",
+			"1",
+			"orderListWrap",
+			"console",
+			"carListActive",
+			"console",
+			"carActiveNum",
+			"console",
+			"60%",
+			"\"isonline\": true",
+			"creatCarTree",
+			"showall",
+			"checkBoxControl",
+			"送货",
+			"送",
+			"th",
+			"开始",
+			"login",
+			"searchHistory",
+			"searchText",
+			"正在配送",
+			"searchHistory",
+			"scrollbarY",
+			"ps-scrollbar-y",
+			"wheel",
+			"scrollbarX",
+			"ps-scrollbar-y-rail",
+			"searchbt",
+			"search",
+			"bisicdataTableCon",
+			"formsTableCon",
+			"formsPageCon",
+			"switchPage",
+			"forms",
+			"#forms",
+			"li"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/index.js",
+					"settings":
+					{
+						"buffer_size": 2503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1530,
+								1530
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 576.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "secondPg.html",
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"auto_name": "secondPg.html",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1504,
+								1504
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 422.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"desktop.js",
+				"xx/js/desktop.js"
+			],
+			[
+				"index2",
+				"xx/js/index2.js"
+			],
+			[
+				"index.css",
+				"xx/css/index.css"
+			],
+			[
+				"indexjs",
+				"xx/js/index2.js"
+			],
+			[
+				"carma",
+				"xx/carMap.html"
+			],
+			[
+				"index",
+				"xx/index.html"
+			],
+			[
+				"",
+				"xx/js/index2.js"
+			],
+			[
+				"index.js",
+				"xx/js/index2.js"
+			],
+			[
+				"index.html",
+				"xx/index.html"
+			],
+			[
+				"des",
+				"xx/desktop.html"
+			],
+			[
+				"log",
+				"xx/js/login.js"
+			],
+			[
+				"desk",
+				"xx/desktop.html"
+			],
+			[
+				".css",
+				"css/index.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/wamp/www/xx/xx.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 101.0,
+	"status_bar_visible": true
+}
